@@ -132,7 +132,7 @@ echo "zsync|https://resin-production-downloads.s3.amazonaws.com/etcher/latest/Et
 
 **Step 2: Upload the AppImage and the AppImage.zsync to an URL that matches the URL specified in the update information**
 
-You would have to copy both `Etcher-linux-x64.AppImage.zsync` and `Etcher-linux-x64.AppImage.zsync` to `https://resin-production-downloads.s3.amazonaws.com/etcher/latest/` for this to work.
+You would have to copy both `Etcher-linux-x64.AppImage` and `Etcher-linux-x64.AppImage.zsync` to `https://resin-production-downloads.s3.amazonaws.com/etcher/latest/` for this to work.
 
 When you have a new version, simply put the updated  `Etcher-linux-x64.AppImage.zsync` and `Etcher-linux-x64.AppImage.zsync` at the *same* location.
 
